@@ -1,6 +1,6 @@
 # Loan Amortisation Calculator (Python)
 
-A Python-based financial modelling tool that simulates loan repayment structures using amortisation principles. The system calculates monthly repayments, interest breakdowns, and generates structured repayment schedules for financial analysis and learning purposes.
+A Python-based financial calculations tool that simulates loan repayment structures using amortisation principles. The system calculates monthly repayments, interest breakdowns, and generates structured repayment schedules for financial analysis and learning purposes.
 
 ---
 
